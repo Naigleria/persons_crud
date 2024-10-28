@@ -1,4 +1,4 @@
-API hecha con go y el framework gin utilizando arquitectura model-view-controller (MVC) <br>
+API hecha con go y el framework gin utilizando el patrón de diseño model-view-controller (MVC) <br>
 Instrucciones para ejecutar la API
 
 1.- descargar e instalar el compilador de go (version 1.21.0)<br>
